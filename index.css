@@ -1,0 +1,15 @@
+body{
+  text-align: center;
+  margin: 20px;
+  font-family: Lobster;
+  background: skyblue;
+}
+span{
+  padding: 2px 25px;
+}
+button{
+  margin: 2px 25px;
+}
+.search-section{
+  margin: 10px;
+}
